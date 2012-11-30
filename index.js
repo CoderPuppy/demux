@@ -9,3 +9,5 @@ function demux() {
 
 	return ts;
 }
+
+exports = module.exports = demux;

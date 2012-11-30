@@ -1,6 +1,6 @@
 {
 	"name": "demux",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Combine a bunch of streams into one",
 	"author": "Drew Young",
 	"main": "./index",
