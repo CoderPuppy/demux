@@ -1,0 +1,11 @@
+{
+	"name": "demux",
+	"version": "0.1.0",
+	"description": "Combine a bunch of streams into one",
+	"author": "Drew Young",
+	"main": "./index",
+	"repository": { "type": "git", "url": "http://github.com/drewyoung1/demux.git" },
+	"dependencies": {
+		"through": "~2.1.0"
+	}
+}
