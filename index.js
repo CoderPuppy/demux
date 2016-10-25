@@ -1,4 +1,4 @@
-var through = require('through');
+var through = require('through2');
 
 function demux() {
 	var ts = through();

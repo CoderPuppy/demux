@@ -1,12 +1,22 @@
 {
 	"name": "demux",
 	"version": "0.1.1",
-	"keywords": [ "stream", "streams", "multiplex", "mux", "demux", "demultiplex" ],
+	"keywords": [
+		"stream",
+		"streams",
+		"multiplex",
+		"mux",
+		"demux",
+		"demultiplex"
+	],
 	"description": "Combine a bunch of streams into one",
-	"author": "Drew Young",
+	"author": "CoderPuppy",
 	"main": "./index",
-	"repository": { "type": "git", "url": "http://github.com/drewyoung1/demux.git" },
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/CoderPuppy/demux.git"
+	},
 	"dependencies": {
-		"through": "~2.1.0"
+		"through2": "^2.0.1"
 	}
 }
